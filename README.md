@@ -10,14 +10,20 @@
 ### 🧑‍🏫 About Me
 
 - 🎓 Lecturer at **Universitas Sulawesi Barat**
-- 💼 IT Consultant | System & Network Support
+- 💼 IT Consultant | System & Network Support Specialist
 - 🔬 Research Interests:
   - Artificial Intelligence (AI)
-  - Nature-Inspired Optimization Algorithms
+  - Nature-Inspired Optimization Algorithms (e.g., ACO, PSO, GA)
   - Parallel & Distributed Systems
-- 🌱 Currently learning: **Fullstack Development**, **Cloud Computing**, and more
-- 👯 Looking to collaborate on **research projects**, **AI-based solutions**, or **open source tools**
-- 🗣️ Languages: **Python**, **PHP (Laravel)**, **JavaScript**, **Bash**
+- 🌱 Currently exploring: **Fullstack Web Development**, **Cloud Infrastructure**, **IoT & Embedded Systems**
+- 👯 Looking to collaborate on **AI research**, **edutech projects**, or **open-source contributions**
+- 💻 Programming Languages: **Python**, **Java**, **PHP**, **JavaScript**, **Bash**, **C/C++**, **SQL**
+- ⚙️ Frameworks & Tools:
+  - **Laravel**, **CodeIgniter**, **Django**, **Flask**, **FastAPI**
+  - **Node.js**, **Express.js**
+  - **Bootstrap**, **Tailwind CSS**, **jQuery**
+  - **TensorFlow**, **PyTorch**, **Keras**, **Scikit-learn**
+  - **OpenCV**, **Streamlit**, **Pygame**, **Matplotlib**, **Pandas**
 
 ---
 
@@ -34,13 +40,34 @@
 ### 💻 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-DD4814?style=flat&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+
+  <!-- JS / Node -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" />
+
+  <!-- Data Science / AI -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
 </p>
 
 ---
