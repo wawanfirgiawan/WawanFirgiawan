@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wawan Firgiawan</h1>
 <h3 align="center">Lecturer | Researcher | IT Consultant</h3>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WawanFirgiawan&label=Profile%20views&color=0e75b6&style=flat" alt="WawanFirgiawan" />
+</p>
 
 ### 🎯 Areas of Interest
 
 - 🤖 Artificial Intelligence (AI)
 - 🌿 Nature-Inspired Optimization (e.g., ACO, PSO, GA)
 - ⚙️ Parallel & Distributed Systems
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WawanFirgiawan&label=Profile%20views&color=0e75b6&style=flat" alt="WawanFirgiawan" />
-</p>
 
 
 ### 🧑‍🏫 About Me
